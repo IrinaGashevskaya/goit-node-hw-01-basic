@@ -1,0 +1,29 @@
+{
+  "name": "goit-node-hw-01-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "uuid": "^8.3.2",
+    "yargs": "^17.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrinaGashevskaya/goit-node-hw-01-basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IrinaGashevskaya/goit-node-hw-01-basic/issues"
+  },
+  "homepage": "https://github.com/IrinaGashevskaya/goit-node-hw-01-basic#readme"
+}
